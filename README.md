@@ -1,6 +1,7 @@
 # 🚚 Delivery Time Predictor
 
 This project predicts delivery time using Machine Learning.
+project link : https://deliverytimeproject-mftjmtfnzgvik3ybbxdbbs.streamlit.app/
 
 ## Features
 - Predict delivery time
